@@ -1,1 +1,1 @@
-# statistical example
+# Statistic example
